@@ -30,6 +30,10 @@ https://en.wikipedia.org/wiki/Category:Women_dramatists_and_playwrights_by_natio
 
 https://en.wikipedia.org/wiki/Category:Male_dramatists_and_playwrights_by_nationality (male playwrights)
 
+https://en.wikipedia.org/wiki/Category:Women_journalists_by_nationality (female journalists)
+
+https://en.wikipedia.org/wiki/Category:Male_journalists_by_nationality (male journalists)
+
 https://en.wikipedia.org/wiki/Category:Female_dancers_by_nationality (female dancers)
 
 https://en.wikipedia.org/wiki/Category:Male_dancers_by_nationality (male dancers)
