@@ -46,10 +46,7 @@ https://en.wikipedia.org/wiki/Category:Women_photographers_by_nationality (femal
 
 https://en.wikipedia.org/wiki/Category:Photographers_by_nationality 
 
-
-
-
-
+We write a function which scrape name, date of birth, place of birth, date of death, place of death, name of spouse, date of marrige, date of divorce, number of marriage, number of divorce and number of marriages which ended in death for celebrities and also their spouses (see Data_Scraping_and_Data_Cleaing notebook for more details) while scraped data for each celebrities are in Data folder. Then we did more data cleaning and feature engineering on data based on the current features. FOr example we find age, age at time of marriage, age at the time of divorce, age of spouse , age of spouse at the time of marriage, age of spouse at the time of divorce, duration of marriage and age difference. 
 
 
 
