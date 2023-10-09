@@ -13,45 +13,7 @@ To this end, relevant data was scraped from table of content in Wikipedia page o
 
 The goal of this project is to scrape data from wikipedia for celebrities around the world and then prepare it to build ML classifiers to predict the divorce rate among them. 
 
-[actress](https://en.wikipedia.org/wiki/Category:Film_actresses_by_nationality) , [actors](https://en.wikipedia.org/wiki/Category:Male_film_actors_by_nationality), [female](https://en.wikipedia.org/wiki/Category:Women_comedians_by_nationality, https://en.wikipedia.org/wiki/Category:Male_comedians_by_nationality)
-
-[male comedians](https://en.wikipedia.org/wiki/Category:Male_comedians_by_nationality)
-
-(https://en.wikipedia.org/wiki/Category:21st-century_women_singers_by_nationality) (female singers)
-
-(https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality) (male singers)
-
-(https://en.wikipedia.org/wiki/Category:21st-century_women_writers_by_nationality) (female musicians)
-
-(https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality) (male musicians)
-
-(https://en.wikipedia.org/wiki/Category:Women_film_directors) (female directors)
-
-(https://en.wikipedia.org/wiki/Category:Film_directors_by_nationality) 
-
-(https://en.wikipedia.org/wiki/Category:21st-century_women_writers_by_nationality) (female writes)
-
-(https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality) (male writers)
-
-(https://en.wikipedia.org/wiki/Category:Women_dramatists_and_playwrights_by_nationality) (female playwrights)
-
-(https://en.wikipedia.org/wiki/Category:Male_dramatists_and_playwrights_by_nationality) (male playwrights)
-
-(https://en.wikipedia.org/wiki/Category:Women_journalists_by_nationality) (female journalists)
-
-(https://en.wikipedia.org/wiki/Category:Male_journalists_by_nationality) (male journalists)
-
-(https://en.wikipedia.org/wiki/Category:Female_dancers_by_nationality) (female dancers)
-
-(https://en.wikipedia.org/wiki/Category:Male_dancers_by_nationality) (male dancers)
-
-(https://en.wikipedia.org/wiki/Category:Female_models_by_nationality) (female models)
-
-(https://en.wikipedia.org/wiki/Category:Male_models_by_nationality) (male models)
-
-(https://en.wikipedia.org/wiki/Category:Women_photographers_by_nationality) (female photographers)
-
-(https://en.wikipedia.org/wiki/Category:Photographers_by_nationality) 
+[actress](https://en.wikipedia.org/wiki/Category:Film_actresses_by_nationality) , [actors](https://en.wikipedia.org/wiki/Category:Male_film_actors_by_nationality), [female comedians](https://en.wikipedia.org/wiki/Category:Women_comedians_by_nationality), [male comedians](https://en.wikipedia.org/wiki/Category:Male_comedians_by_nationality), [female singers](https://en.wikipedia.org/wiki/Category:21st-century_women_singers_by_nationality), [male singers](https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality),[female musicians](https://en.wikipedia.org/wiki/Category:21st-century_women_writers_by_nationality), [male musicians](https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality),[female directors](https://en.wikipedia.org/wiki/Category:Women_film_directors), [male directors](https://en.wikipedia.org/wiki/Category:Film_directors_by_nationality) ,[female writes](https://en.wikipedia.org/wiki/Category:21st-century_women_writers_by_nationality),[male writers](https://en.wikipedia.org/wiki/Category:21st-century_male_singers_by_nationality),[female playwrights](https://en.wikipedia.org/wiki/Category:Women_dramatists_and_playwrights_by_nationality), [male playwrights](https://en.wikipedia.org/wiki/Category:Male_dramatists_and_playwrights_by_nationality), [female journalists](https://en.wikipedia.org/wiki/Category:Women_journalists_by_nationality), [male journalists](https://en.wikipedia.org/wiki/Category:Male_journalists_by_nationality),[female dancers](https://en.wikipedia.org/wiki/Category:Female_dancers_by_nationality),[male dancers](https://en.wikipedia.org/wiki/Category:Male_dancers_by_nationality),[female models](https://en.wikipedia.org/wiki/Category:Female_models_by_nationality),[male models](https://en.wikipedia.org/wiki/Category:Male_models_by_nationality),[female photographers](https://en.wikipedia.org/wiki/Category:Women_photographers_by_nationality),[male photographers](https://en.wikipedia.org/wiki/Category:Photographers_by_nationality) 
 
 
 # Data Cleaning and Feature Engineeering
