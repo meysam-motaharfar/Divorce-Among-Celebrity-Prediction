@@ -44,10 +44,10 @@ Then data cleaning and feature engineering on scraped data based on the current 
 |First_Marriage|check that the marriage of both celebrity and their spouses is the first marriage or not|
 |Sex|sex|
 |Age|age of celebrity|
-|Age_at_Marriage| age of celebrity at the time of first marriage|
+|Age_at_Marriage| age of celebrity at the time of marriage|
 |Age_at_Divorce|age of celebrity at the time of first divorce|
 |Age_of_Spouse| age of spouse of celebrity|
-|Age_at_Marriage_Spouse| age of sposue of celebrity at the time of first marriage|
+|Age_at_Marriage_Spouse| age of sposue of celebrity at the time of marriage|
 |Age_at_Divorce_Spouse|age of sposue of celebrity at the time of first divroce|
 |Duration_of_Marriage|duration of first marriage|
 |Age_Difference|age difference|
@@ -76,12 +76,10 @@ from which one can clearly see that the number of celebrities are denser in US, 
 
 # Models Building and Results
 
-Then, explatory data analysis was done in Explatory_Data_Analysis (EDA) notebook where one can find different plots for both continuous and categorical features. Based on these plot I selected relevant features to predict the divorce rate among celebrites. As a matter of fact, I selected number of children, number of children for spouse, sex, Age, age, age at the time of marriage, at of spouse, age at the time of marriage for spouse, age difference, numbe of roles, either the spouse is celebrities or not and geodistance. I used knn imputer to fill missing values in the dataset and then standardized the data and then build six different classifiers (Logistic Regression, KNN classifier, Support Vector Machine, Decision Tree classifier, Random Forest Classifier and XGBoost Classifier) to predict the divorce for each celebrites based on aforementioned features. Iterating over the number of neighbours for imputer, the best values based on the accuracy score was found. Finally, gridsearch was used to tune hyperparameters of each models to improve the accuracy. It was found that XGBoost classifier has the best accuracy for test dataset (see Building_ML_Models notebook for model building and results). 
+Based on explatory data analysis, I selected relevant features to predict the divorce rate among celebrites. As a matter of fact, I selected number of children, number of children for spouse, sex, Age, age, age at the time of marriage, at of spouse, age at the time of marriage for spouse, age difference, numbe of roles, either the spouse is celebrities or not and geodistance. I used knn imputer to fill missing values in the dataset and then standardized the data and then build six different classifiers (Logistic Regression, KNN classifier, Support Vector Machine, Decision Tree classifier, Random Forest Classifier and XGBoost Classifier) to predict the divorce for each celebrites based on aforementioned features. Iterating over the number of neighbours for imputer, the best number of beighbors based on the accuracy score was found. Finally, gridsearch was used to tune hyperparameters of each models to improve the accuracy. It was found that XGBoost classifier has the best accuracy among others for test dataset (see this [notebook](https://github.com/meysam-motaharfar/Divorce-Rate-among-Celebrities/blob/main/Notebooks/Building_ML_Models.ipynb) for more details). Here are the results in nutshell:
 
 ![GitHub Logo](https://github.com/meysam-motaharfar/Divorce-Rate-among-Celebrities/blob/main/Figs/divorce_prediction_results.png)
 
-
- 
 # Conclusion and Future Direction
 
 
