@@ -24,15 +24,45 @@ Then data cleaning and feature engineering on scraped data based on the current 
 | Name | Full name scraped from the table of content, otehrwise the name scraped from the Wikipedia list | 
 | Date_of_Birth | date of birth for celebrity | 
 | Place_of_Birth | place of birth for celebrity | 
-| Date_of_Death| date of death of celebrity|
-|Place_of_Death| place of death of celebrity|
-|Name_of_Spouse| name of spouse for celebrity|
+| Date_of_Death| date of death for celebrity|
+|Place_of_Death| place of death for celebrity|
+|Name_of_Spouse| name of first spouse for celebrity|
 |Date_of_Marriage|date of marriage|
 |Date_of_Divorce|date of divorce|
 |Number_of_Marriage|number of marriage for celebrity|
 |NumbeR_of_Divorce|number of divorce for celebrity those ended in death are excluded|
 |Number_of_Children|number of children for celebrity from all marriages|
 |Marriages_End_in_Death|number of marriages which ended in death not divorce either the death of celebrity or their spouses|
+| Date_of_Birth_Spouse | date of birth for spouse of celebrity | 
+| Place_of_Birth_Spouse | place of birth for spouse of celebrity | 
+| Date_of_Death_Spouse| date of death for spouse of celebrity|
+|Place_of_Death_Spouse| place of death for spouse of celebrity|
+|Name_of_Spouse_Spouse| name of first spouse for spouse of celebrity|
+|Number_of_Marriage_Spouse|number of marriage for spouse of celebrity|
+|NumbeR_of_Divorce_Spouse|number of divorce for spouse of celebrity those ended in death are excluded|
+|Number_of_Children_Spouse|number of children for sposue of celebrity from all marriages|
+|First_Marriage|check that the marriage of both celebrity and their spouses is the first marriage or not|
+|Sex|sex|
+|Age|age of celebrity|
+|Age_at_Marriage| age of celebrity at the time of first marriage|
+|Age_at_Divorce|age of celebrity at the time of first divorce|
+|Age_of_Spouse| age of spouse of celebrity|
+|Age_at_Marriage_Spouse| age of sposue of celebrity at the time of first marriage|
+|Age_at_Divorce_Spouse|age of sposue of celebrity at the time of first divroce|
+|Duration_of_Marriage|duration of first marriage|
+|Age_Difference|age difference|
+|Number_of_Roles|number of unique professions|
+|Profession|name of unique profession which celebrity has|	
+|Spouse_is_Celebrity|checking that the spouse is also celebrity if his/her name is also in the Name column |
+|Married	|marrie dor not|
+|Divorced	|divorced or not|
+|Alive_or_Dead	| alive or dead|
+|Alive_or_Dead_Spouse	|alive or dead spouse|
+|Latitude	|latitude for the place of birth of celebrity|
+|Longitude	|longitude for the place of birth of celebrity|
+|Latitude_Spouse	|latitude for the place of birth for sposue of celebrity|
+|Longitude_Spouse	|longitude for the place of birth of spouse of celebirty|
+|Distance|geodistance between the place of birth of celebrity and their spouses|
 
 
 # Explatory Data Analysis(EDA)
