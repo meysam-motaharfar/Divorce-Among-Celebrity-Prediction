@@ -24,6 +24,15 @@ Then data cleaning and feature engineering on scraped data based on the current 
 | Name | Full name scraped from the table of content, otehrwise the name scraped from the Wikipedia list | 
 | Date_of_Birth | date of birth for celebrity | 
 | Place_of_Birth | place of birth for celebrity | 
+| Date_of_Death| date of death of celebrity|
+|Place_of_Death| place of death of celebrity|
+|Name_of_Spouse| name of spouse for celebrity|
+|Date_of_Marriage|date of marriage|
+|Date_of_Divorce|date of divorce|
+|Number_of_Marriage|number of marriage for celebrity|
+|NumbeR_of_Divorce|number of divorce for celebrity those ended in death are excluded|
+|Number_of_Children|number of children for celebrity from all marriages|
+|Marriages_End_in_Death|number of marriages which ended in death not divorce either the death of celebrity or their spouses|
 
 
 # Explatory Data Analysis(EDA)
