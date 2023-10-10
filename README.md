@@ -3,7 +3,7 @@
 - [Project Description](#project-description)
 - [Data Collection](#data-collection)
 - [Data Cleaning and Feature Engineering](#data-cleaning-and-feature-engineeering)
-- [Explatory Data Analysis(EDA)](#explatory-data-analysiseda)
+- [Explatory Data Analysis (EDA)](#explatory-data-analysiseda)
 - [Models Building and Results](#models-building-and-results)
 - [Conclusion and Future Direction](#conclusion-and-future-direction)
 
