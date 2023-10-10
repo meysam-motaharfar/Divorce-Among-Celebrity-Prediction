@@ -17,6 +17,7 @@ To this end, relevant data was scraped from table of content in Wikipedia page o
 
 ![al](https://github.com/meysam-motaharfar/Divorce-Rate-among-Celebrities/blob/main/Figs/Distribution_of_Celebrities.png)
 
+from which one can clearly see that the number of celebrities are denser in US, Europe and india and that might be related to the fact these place have strong media and so there are more information about celebrities from these countries. 
 
 # Data Cleaning and Feature Engineeering
 
