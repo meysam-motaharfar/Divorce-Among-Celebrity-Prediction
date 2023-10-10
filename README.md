@@ -19,11 +19,11 @@ To this end, relevant data was scraped from table of content in Wikipedia page o
 
 Then data cleaning and feature engineering on data based on the current features was done. For example age, age at time of marriage, age at the time of divorce, age of spouse , age of spouse at the time of marriage, age of spouse at the time of divorce, duration of marriage and age difference were calculated. Moreover, some other features which describes the marriage was first marriage for both celebrities and their spouse (First_Marriage), spouse was also celebrity (Spouse_is_Celbrities), number of profession and we also find the latitude and longitude of the place of birth of celebrities and their spouses and corresponding geodistance were also added. Finally, I added some categorical features for being married or divorced and being alive or dead (see More_Data_Cleaning_and_Feature_Engineering for more details).
 
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
-| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
+| Header 1 | Header 2 
+| -------- | -------- 
+| Row 1, Col 1 | Row 1, Col 2 | 
+| Row 2, Col 1 | Row 2, Col 2 | 
+| Row 3, Col 1 | Row 3, Col 2 | 
 
 
 # Explatory Data Analysis(EDA)
