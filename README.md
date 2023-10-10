@@ -54,7 +54,7 @@ Then data cleaning and feature engineering on scraped data based on the current 
 |Number_of_Roles|number of unique professions|
 |Profession|name of unique profession which celebrity has|	
 |Spouse_is_Celebrity|checking that the spouse is also celebrity if his/her name is also in the Name column |
-|Married	|marrie dor not|
+|Married	|married or not|
 |Divorced	|divorced or not|
 |Alive_or_Dead	| alive or dead|
 |Alive_or_Dead_Spouse	|alive or dead spouse|
@@ -81,6 +81,8 @@ Based on explatory data analysis, I selected relevant features to predict the di
 ![GitHub Logo](https://github.com/meysam-motaharfar/Divorce-Rate-among-Celebrities/blob/main/Figs/divorce_prediction_results.png)
 
 # Conclusion and Future Direction
+
+
 
 
 
