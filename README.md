@@ -21,9 +21,9 @@ Then data cleaning and feature engineering on data based on the current features
 
 | Feature | Description 
 | -------- | -------- 
-| Name | Full name scraped from the table of content, otehr wise the name scraped from the Wikipedia list | 
-| Date_of_Birth | Row 2, Col 2 | 
-| Place_of_Birth | Row 3, Col 2 | 
+| Name | Full name scraped from the table of content, otehrwise the name scraped from the Wikipedia list | 
+| Date_of_Birth | date of birth for celebrity | 
+| Place_of_Birth | place of birth for celebrity | 
 
 
 # Explatory Data Analysis(EDA)
