@@ -82,6 +82,8 @@ Based on explatory data analysis, I selected relevant features to predict the di
 
 # Conclusion and Future Direction
 
+In this project, the divorce among celebrities was predicted by scraping data from wikipedia pages. However, given the age of celebrities at hand, one can also build a regression model to predict the age of celebrities based on the scraped data and also figure out is there any connection between the marital status of celebrities and their life expectancy. 
+
 
 
 
