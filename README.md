@@ -1,4 +1,4 @@
-# Divorce Rate among Celebrities
+# Divorce Rate Among Celebrities
 
 - [Project Description](#project-description)
 - [Data Collection](#data-collection)
